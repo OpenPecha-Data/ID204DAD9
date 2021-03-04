@@ -1,20 +1,22 @@
-id: opecha:P000421
+id: P000421
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14136
   title: བྱ་རྒྱུད་དོན་གསལ་མཁས་པའི་དགའ་སྟོན།
-  volume:
+  author: ''
+  volumes:
     f6ba2cfbcc974b019f69ba0ca1af37ac:
       image_group_id: I1KG14327
       title: Volume 1 of bya rgyud don gsal mkhas pa'i dga' ston/
       volume_number: 1
       total_pages: 362
+      base_file: v001.txt
     a82dc1923b7147c891c0eedec8e9856a:
       image_group_id: I1KG14328
       title: Volume 2 of bya rgyud don gsal mkhas pa'i dga' ston/
       volume_number: 2
       total_pages: 342
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: བྱ་རྒྱུད་དོན་གསལ་མཁས་པའི་དགའ་སྟོན།
   author: ''
